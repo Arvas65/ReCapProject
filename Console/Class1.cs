@@ -2,8 +2,7 @@
 
 namespace Console
 {
-    static void Main(string[] args )
+    public class Class1
     {
-
     }
 }
